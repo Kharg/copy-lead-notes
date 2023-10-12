@@ -17,6 +17,9 @@ This extension allows to copy lead notes when a lead gets converted:
 
 After installation visit /#Admin/CopyLeadNotes to enable/disable the extension for the entities you need.
 
+![image](https://github.com/Kharg/copy-lead-notes/assets/32223252/df013f19-9312-463f-94c9-f93b824dcac6)
+
+
 ![image](https://github.com/Kharg/copy-lead-notes/assets/32223252/9bd6a44e-e727-4dd6-85e1-1dc78c5aa600)
 
 
