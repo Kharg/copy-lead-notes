@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "copyLeadNotesForAccount": "Copy Notes to Account",
+        "copyLeadNotesForContact": "Copy Notes to Contact",
+        "copyLeadNotesForOpportunity": "Copy Notes to Opportunity"
+    },
+    "tooltips": {
+        "copyLeadNotesForAccount": "Copy Stream notes to converted Account.",
+        "copyLeadNotesForContact": "Copy Stream notes to converted Contact.",
+        "copyLeadNotesForOpportunity": "Copy Stream notes to converted Opportunity."
+    }
+}

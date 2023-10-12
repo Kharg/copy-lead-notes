@@ -1,0 +1,10 @@
+{
+  "name": "Copy Lead Notes",
+  "description": "Extension to copy Lead stream notes to the converted entity (Account/Contact/Opportunity).",
+  "author": "Andrew Fontana",
+  "acceptableVersions": [
+    ">=7.0.0"
+  ],
+  "version": "1.0.0",
+  "releaseDate": "12/10/2023"
+}

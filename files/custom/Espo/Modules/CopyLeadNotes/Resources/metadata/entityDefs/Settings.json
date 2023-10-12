@@ -1,0 +1,19 @@
+{
+    "fields": {
+    "copyLeadNotesForAccount": {
+          "type": "bool",
+          "default": false,
+          "tooltip": true
+        },
+    "copyLeadNotesForContact": {
+            "type": "bool",
+            "default": false,
+            "tooltip": true
+        },
+    "copyLeadNotesForOpportunity": {
+            "type": "bool",
+            "default": false,
+            "tooltip": true
+        }
+    }
+}

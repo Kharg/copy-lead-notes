@@ -1,0 +1,13 @@
+{
+    "params": {
+        "copyLeadNotesForAccount": {
+            "level": "admin"
+        },
+        "copyLeadNotesForContact": {
+            "level": "admin"
+        },
+        "copyLeadNotesForOpportunity": {
+            "level": "admin"
+        }
+    }
+}
