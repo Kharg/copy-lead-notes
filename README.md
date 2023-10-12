@@ -15,6 +15,12 @@ This extension allows to copy lead notes when a lead gets converted:
 - Copy Notes to Contact
 - Copy Notes to Opportunity
 
+This Extension will copy:
+- Posts
+- Posts with attachments
+
+if you'd like other types of notes to be copied please open a new issue and I will check if it's possible to add support for it.
+
 After installation visit /#Admin/CopyLeadNotes to enable/disable the extension for the entities you need.
 
 ![image](https://github.com/Kharg/copy-lead-notes/assets/32223252/df013f19-9312-463f-94c9-f93b824dcac6)
