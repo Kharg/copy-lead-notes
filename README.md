@@ -37,5 +37,5 @@ After installation visit /#Admin/CopyLeadNotes to enable/disable the extension f
 
 ### Pre-build extension release
 
-1. Download the latest release from [Release page](https://github.com/Kharg/copy-stream-notes/releases/latest).
+1. Download the latest release from [Release page](https://github.com/Kharg/copy-lead-notes/releases/latest).
 2. Go to **Administration** -> **Extensions** and upload the downloaded file.
